@@ -1,0 +1,8 @@
+# Commit Message Template
+✨ feat:
+🐛 fix:
+📚 docs:
+🎨 style:
+♻️ refactor:
+✅ test:
+🔧 chore:
