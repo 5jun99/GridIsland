@@ -16,6 +16,8 @@ public class Node {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    private Integer score;
+
     private Float xCoordinate;
 
     private Float yCoordinate;

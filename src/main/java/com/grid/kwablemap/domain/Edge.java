@@ -15,7 +15,6 @@ public class Edge {
     private Long id;
 
     private Float distance;
-    private Integer cost;
 
     // 출발 노드
     @ManyToOne
