@@ -1,6 +1,5 @@
 package com.grid.kwablemap.api;
 
-import lombok.Data;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
 
